@@ -1,4 +1,4 @@
-- [ ] Task 1: Create base HTML frame with SVG grid
+- [x] Task 1: Create base HTML frame with SVG grid
   File: public/index.html
   Action: Create
   Description: Create 300x340px SVG viewBox with 20x20 grid (1px lines every 15px). Include score text element at top.
