@@ -126,7 +126,7 @@
   });
   ```
 
-- [ ] Task 8: Implement retro styling
+- [x] Task 8: Implement retro styling
   File: public/style.css
   Action: Create
   Description: Apply Press Start 2P font and color scheme

@@ -1,0 +1,10 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  background: #000;
+}
+.grid-line {
+  stroke: #333;
+  stroke-width: 1px;
+}
+.snake { fill: #00ff00; }
+.food { fill: #ff0000; }
