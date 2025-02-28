@@ -69,7 +69,7 @@
   }
   ```
 
-- [ ] Task 5: Create collision detection system
+- [x] Task 5: Create collision detection system
   File: src/game.js
   Action: Add methods to GameState
   Description: Check wall/body collisions and win condition
